@@ -56,7 +56,7 @@ fixation = stimuli.FixCross()
 control.start(subject_id=1)
 
 #---------------------------------------------
-# TEST
+# TEST (it works yayyy!)
 #---------------------------------------------
 show_fixation()
 KanizsaRectangle(0.25, 0.05)
