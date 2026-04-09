@@ -1,0 +1,26 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Apr 09 2026 19:32:03
+#sha1: 26cd71
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-0BK1FE5', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+1858,design,log,
+#design: #exp: Text Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 1,1,0,0
+#design: 1,1,1,1
+1858,design,logged,
+1858,Experiment,started
+1860,Stimulus,presented,0
+4626,Keyboard,received,1073741903,wait
+4629,Stimulus,presented,2
+5681,Keyboard,received,1073741904,wait
+5682,Stimulus,presented,3
+6328,Keyboard,received,1073741903,wait
+6332,Stimulus,presented,4
+6704,Keyboard,received,1073741903,wait
+6704,Experiment,ended
+6727,Data,saved

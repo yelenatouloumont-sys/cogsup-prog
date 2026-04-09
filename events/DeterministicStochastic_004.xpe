@@ -1,0 +1,21 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Apr 09 2026 19:33:53
+#sha1: e1e42b
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-0BK1FE5', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+1330,design,log,
+#design: #exp: Text Experiment
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 1,1,0,0
+#design: 1,1,1,1
+1331,design,logged,
+1331,Experiment,started
+1331,Stimulus,presented,0
+1332,Stimulus,presented,1
+3334,stderr,received,'Traceback (most recent call last):'
+3334,stderr,received,'  File "c:\\Users\\yelen\\Documents\\FAC\\MASTER\\M1\\semestre_2\\Experimental_approach\\Programming\\Assignments\\Week-6\\DeterministicStochastic.py", line 51, in <module>\n    trial.stimuli[0].present()\n    ~~~~~~~~~~~~~^^^'
+3335,stderr,received,'IndexError: list index out of range'

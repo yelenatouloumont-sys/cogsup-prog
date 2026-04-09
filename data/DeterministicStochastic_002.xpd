@@ -1,0 +1,23 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Thu Apr 09 2026 19:32:03
+#--EXPERIMENT INFO
+#e mainfile: DeterministicStochastic.py
+#e sha1: 26cd71
+#e modules: 
+#e Experiment: Text Experiment
+#e no between subject factors
+#e Block 0: Deterministic
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#e Block 1: Stochastic
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 2
+subject_id,
+2,Deterministic,0,1073741903,2766
+2,Deterministic,1,1073741904,1051
+2,Stochastic,0,1073741903,646
+2,Stochastic,1,1073741903,372
