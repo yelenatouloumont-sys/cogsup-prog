@@ -1,0 +1,28 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: cp1252
+#date: Tue Apr 28 2026 17:14:57
+#--EXPERIMENT INFO
+#e mainfile: DeterministicStochastic.py
+#e sha1: 000ce7
+#e modules: 
+#e Experiment: Text Experiment
+#e no between subject factors
+#e Block 0: Deterministic
+#e     block factors: 
+#e     n trials: 2
+#e     trial factors: square_side = [left, right]
+#e                    
+#e Block 1: Stochastic
+#e     block factors: 
+#e     n trials: 4
+#e     trial factors: square_side = [left, right]
+#e                    circle_side = [left, right]
+#e                    
+#--SUBJECT INFO
+#s id: 1
+subject_id,block_name,trial_id,target_location,key_pressed,rt_ms
+1,Deterministic,0,left,left,380
+1,Deterministic,1,right,right,342
+1,Stochastic,0,right,right,376
+1,Stochastic,1,left,left,401
+1,Stochastic,2,left,left,262
+1,Stochastic,3,left,left,297
